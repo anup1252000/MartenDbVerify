@@ -1,0 +1,6 @@
+@MartenDbVerify_HostAddress = http://localhost:5022
+
+GET {{MartenDbVerify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
